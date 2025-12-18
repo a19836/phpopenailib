@@ -1,7 +1,7 @@
 # PHP Open AI Lib
 
 > Original Repos:   
-> - PHP Open AI Lib: https://github.com/a19836/phpopenailib/   
+> - PHP Open AI Lib: https://github.com/a19836/php-open-ai-lib/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
