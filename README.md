@@ -25,6 +25,21 @@ The library allows you to:
 
 To see a working example, open [index.php](index.php) on your server.
 
+---
+
+## Use Cases
+
+- AI-powered chatbots and assistants
+- Automated code generation and documentation
+- Explaining and summarizing documents or source code
+- Generating UI layouts, HTML pages, and assets
+- Image generation, analysis, and transformation
+- Rapid prototyping with AI-driven features
+
+This library allows PHP applications to leverage modern AI capabilities with minimal effort, providing a clean, extensible, and developer-friendly interface to OpenAI.
+
+---
+
 ## Usage
 
 ### Interact with AI
